@@ -189,7 +189,7 @@ h1 {
 
 h1 span {
   margin-right: 30px;
-  opacity: 25%;
+  opacity: 0.25;
 }
 
 .dest-image {
@@ -201,7 +201,7 @@ h1 span {
   width: 100%;
   height: 1px;
   background-color: white;
-  opacity: 50%;
+  opacity: 0.5;
 }
 
 .btn-container {
@@ -304,7 +304,6 @@ h1 span {
 
   .left {
     width: 100%;
-    margin-bot: 0;
     height: 50%;
   }
   .right {

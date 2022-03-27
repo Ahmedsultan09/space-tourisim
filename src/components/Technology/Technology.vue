@@ -229,7 +229,7 @@ h1 {
 
 h1 span {
   margin-right: 30px;
-  opacity: 25%;
+  opacity: 0.25;
 }
 
 .left-container {
@@ -361,8 +361,6 @@ h1 span {
   .page-title {
     top: 100px;
     left: 20px;
-  }
-  .term {
   }
 
   .left-content {

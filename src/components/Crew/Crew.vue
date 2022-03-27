@@ -233,7 +233,7 @@ h1 {
 
 h1 span {
   margin-right: 30px;
-  opacity: 25%;
+  opacity: 0.25;
 }
 
 .astronaut {
@@ -246,7 +246,7 @@ h1 span {
 
 .title {
   font-size: 38px;
-  opacity: 60%;
+  opacity: 0.6;
   font-family: "Bellefair", serif;
 }
 
