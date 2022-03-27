@@ -215,7 +215,7 @@ li a:hover {
   left: 12%;
   background-color: white;
   z-index: 2;
-  opacity: 50%;
+  opacity: 0.5;
 }
 .router-link-active {
   border-bottom: 3px solid white;
